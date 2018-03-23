@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="bson-3.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/extendreport/bson-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extendreport/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extendreport/commons-io-2.5(1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/extendreport/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extendreport/extentreports-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extendreport/freemarker-2.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extendreport/gson-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extendreport/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extendreport/httpcore-4.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extendreport/httpmime-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extendreport/jsoup-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extendreport/mongodb-driver-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extendreport/mongodb-driver-core-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
