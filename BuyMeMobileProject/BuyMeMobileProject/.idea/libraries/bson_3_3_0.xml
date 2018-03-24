@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="bson-3.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/bson-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/commons-io-2.5(1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/extentreports-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/freemarker-2.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/gson-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/httpcore-4.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/httpmime-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/java-client-6.0.0-BETA3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/jsoup-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/mongodb-driver-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/appiumlibery/mongodb-driver-core-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

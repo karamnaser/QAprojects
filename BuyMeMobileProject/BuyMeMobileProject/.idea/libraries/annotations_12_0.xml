@@ -1,0 +1,63 @@
+<component name="libraryTable">
+  <library name="annotations-12.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sdk/annotations-12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/annotations-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/archquery-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/asm-5.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/asm-analysis-5.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/asm-tree-5.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/asset-studio-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/bcpkix-jdk15on-1.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/bcprov-jdk15on-1.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/builder-model-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/chimpchat-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/common-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/commons-compress-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/ddmlib-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/ddmuilib-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/dvlib-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/ecj-4.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/fat32lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/hierarchyviewer2lib-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/httpclient-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/httpcore-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/httpmime-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/jcommon-1.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/jfreechart-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/jfreechart-swt-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/jimfs-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/jobb-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/jsilver-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/jython-standalone-2.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/kxml2-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/layoutlib-api-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/lint-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/lint-api-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/lint-checks-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/lombok-ast-0.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/manifest-merger-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/monkeyrunner-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/org-eclipse-core-commands-3.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/org-eclipse-equinox-common-3.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/org-eclipse-jface-3.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/repository-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/screenshot2-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/sdk-common-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/sdklib-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/swtmenubar-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/traceview-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/uast-162.2228.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/uiautomatorviewer-25.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/osgi-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/sdk/osgi-4.0.0.jar!/OSGI-OPT/src" />
+    </SOURCES>
+  </library>
+</component>
